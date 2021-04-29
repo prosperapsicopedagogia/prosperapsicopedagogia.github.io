@@ -52,10 +52,9 @@ img {
   border-radius: 5px;
 }
 
-.tel {
+.round {
   padding: .2em .6em .2em;
   font-weight: 700;
-  background-color: #5cb85c;
   color: #fff;
   white-space: nowrap;
   border-radius: 10px;
